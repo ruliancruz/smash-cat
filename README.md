@@ -7,4 +7,4 @@ Game page: https://gamejolt.com/games/smashcat/460248
 ### Team
 <a href="https://github.com/isaquedev">Isaque Hernandes</a>: Programming;
 <br><a href="https://github.com/ruliancruz">Rulian Cruz</a>: Programming, sound and music;
-<br><a href="https://github.com/Edward-Doragon">Carlos Souza</a>: Graphics;
+<br><a href="https://github.com/Edward-Doragon">Carlos Souza</a>: Graphics.
